@@ -1,0 +1,19 @@
+{
+  "name": "UnityGuides",
+  "version": "0.0.1",
+  "description": "Методичка для Unity",
+  "main": "index.js",
+  "authors": {
+    "name": "FatAlien",
+    "email": "vladislav.chigrinov@gmail.com"
+  },
+  "repository": "/VuePressTest",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
