@@ -45,7 +45,8 @@ module.exports = {
           title: 'Недели',
           collapsable: false,
           children: [
-            'week1'
+            'week1',
+            'week2'
           ]
         }
       ],
